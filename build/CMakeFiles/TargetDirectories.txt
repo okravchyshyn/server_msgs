@@ -1,0 +1,8 @@
+/Users/sergiykravchyshyn/Documents/pet_proj/server_msgs/build/CMakeFiles/edit_cache.dir
+/Users/sergiykravchyshyn/Documents/pet_proj/server_msgs/build/CMakeFiles/rebuild_cache.dir
+/Users/sergiykravchyshyn/Documents/pet_proj/server_msgs/build/client/CMakeFiles/client.dir
+/Users/sergiykravchyshyn/Documents/pet_proj/server_msgs/build/client/CMakeFiles/edit_cache.dir
+/Users/sergiykravchyshyn/Documents/pet_proj/server_msgs/build/client/CMakeFiles/rebuild_cache.dir
+/Users/sergiykravchyshyn/Documents/pet_proj/server_msgs/build/server/CMakeFiles/server.dir
+/Users/sergiykravchyshyn/Documents/pet_proj/server_msgs/build/server/CMakeFiles/edit_cache.dir
+/Users/sergiykravchyshyn/Documents/pet_proj/server_msgs/build/server/CMakeFiles/rebuild_cache.dir

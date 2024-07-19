@@ -1,2 +1,0 @@
-/home/serhiy/Documents/Project_Serv/client/build/CMakeFiles/edit_cache.dir
-/home/serhiy/Documents/Project_Serv/client/build/CMakeFiles/rebuild_cache.dir
